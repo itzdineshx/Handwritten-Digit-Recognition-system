@@ -2,11 +2,13 @@
 
 Welcome to the Handwritten Digit Recognition project! This project uses a Convolutional Neural Network (CNN) model trained on the MNIST dataset to recognize handwritten digits (0-9) from user inputs. This application provides a simple web interface where users can draw a digit, and the model will predict the number with high accuracy.
 
+Web App Link: https://itzdineshx.github.io/Handwritten-Digit-Recognition-system/
+
 ![App Screenshot](download.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Demo](#demo)
+- [Implemtation and demo](#implementation-&-demo)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
@@ -28,7 +30,7 @@ The application uses **HTML, CSS, and JavaScript** for the frontend and **Tensor
 
 ## Demo
 
-Watch a complete walkthrough of the demo of project on YouTube: [YouTube Tutorial](Demo.webm)
+Watch a complete walkthrough of the demo of project on YouTube: [YouTube Tutorial]([Demo.webm](https://youtu.be/Ez78eXclSaQ?si=uoosrlkWJQDsGZwH))
 
 In this video, you’ll learn:
 - How the model was trained.
