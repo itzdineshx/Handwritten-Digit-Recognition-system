@@ -28,7 +28,7 @@ The application uses **HTML, CSS, and JavaScript** for the frontend and **Tensor
 
 ## Demo
 
-Watch a complete walkthrough of the demo of project on YouTube: [YouTube Tutorial](https://www.youtube.com/watch?v=YourVideoIDHere)
+Watch a complete walkthrough of the demo of project on YouTube: [YouTube Tutorial](Demo.webm)
 
 In this video, you’ll learn:
 - How the model was trained.
