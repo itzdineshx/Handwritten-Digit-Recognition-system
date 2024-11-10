@@ -8,7 +8,7 @@ Web App Link: https://itzdineshx.github.io/Handwritten-Digit-Recognition-system/
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Implemtation and demo](#implementation-&-demo)
+- [Implemtation and demo](#implementation-demo)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
@@ -28,9 +28,9 @@ The application uses **HTML, CSS, and JavaScript** for the frontend and **Tensor
 
 ---
 
-## Demo
+## Implemtation and demo
 
-Watch a complete walkthrough of the demo of project on YouTube: [YouTube Tutorial]([Demo.webm](https://youtu.be/Ez78eXclSaQ?si=uoosrlkWJQDsGZwH))
+Watch a complete walkthrough of the demo of project on YouTube: https://youtu.be/Ez78eXclSaQ?si=uoosrlkWJQDsGZwH
 
 In this video, you’ll learn:
 - How the model was trained.
